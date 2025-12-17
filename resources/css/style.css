@@ -1,0 +1,13 @@
+* {background-color: rgb(255, 255, 255);}
+#topics {color: rgb(19, 2, 16);}
+p {font-size: 1rem;font: Arial; color:rgb(49, 9, 75)}
+li {font-size:1rem; font: Arial; color:rgb(49, 9, 75)}
+nav {font-size:1rem; font: Arial; color:rgb(49, 9, 75)}
+h1 {font-size:2rem; font: Arial; color:rgb(49, 9, 75)}  
+h2 {font-size:1.5rem; font: Arial; color:rgb(49, 9, 75)}
+ol {font-size:1rem; font: Arial; color:rgb(49, 9, 75)}
+ul {font-size:1rem; font: Arial; color:rgb(49, 9, 75)}  
+h4 {font-size:1.2rem; font: Arial; color:rgb(49, 9, 75)}
+h3 {font-size:1.3rem; font: Arial; color:rgb(49, 9, 75)}    
+a {font-size:1rem; font: Arial; color:rgb(92, 49, 121); text-decoration: underline;}   
+a:hover {font-size:1rem; font: Arial; color:rgb(161, 58, 230); text-decoration: none;}
